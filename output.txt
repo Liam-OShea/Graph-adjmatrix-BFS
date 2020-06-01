@@ -1,0 +1,10 @@
+Adjacency Matrix:
+01011
+10011
+00010
+11100
+11000
+
+Breadth first traversal:
+A B D E C 
+Process finished with exit code 0
